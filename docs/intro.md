@@ -2,15 +2,18 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+#  Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This is my personal diary for learning and documenting all things web3.
+## Motivation
 
-## Getting Started
+I wanted to implement my version of swyx's #LearninginPublic, and I found that merely posting about what I learned everyday as a blog post lacked a certain 'structure' that I could easily track in my mind to get a sense of the progress I'm making in the never-ending quest to get a grasp of the web3 ecosystem.
 
-Get started by **creating a new site**.
+So I turned to docusaurus to create that structure for me.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+```
+const a = 5;
+```
 
 ## Generate a new site
 
